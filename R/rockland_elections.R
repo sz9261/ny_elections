@@ -116,13 +116,31 @@ ld_14 <- ld_14 %>%
     )
   )
 
+# 14 Governor ----
+gov_14 <- Filter(\(x) x$names[1] == '14_GOV', el_l)[[1]]
+gov_14 <- gov_14 %>% 
+  janitor::clean_names() %>% 
+  rename_with(.fn = \(x) str_replace(x, 'governor_and_lieutenant_governor_', 'gov_14_')) %>% 
+  rename_with(.fn = \(x) str_sub(x, 1, 10), .cols = starts_with('gov_')) %>% 
+  rename(precinct = district, gov_total = ballots_cast_total_ballots_cast) %>%  
+  filter(precinct != 'COUNTY TOTALS') %>% 
+  mutate(year = 2014L, office = 'Governor', district = NA_integer_,
+         across(starts_with('gov_'), \(x) replace_na(as.integer(x), 0L))) %>% 
+  select(precinct, office, district, year, gov_total, starts_with('gov')) %>% 
+  mutate(
+    precinct = paste0(
+      str_sub(precinct, 1, 1), 
+      str_pad(str_extract(precinct, '\\d+'), side = 'left', pad = '0', width = 2)
+    )
+  )
+
 # 14 SHD ----
 shd_14 <- Filter(\(x) str_sub(x$names[1], 1, 9) == '14_MEMASS', el_l)
 shd_14 <- lapply(shd_14, \(x) x %>% 
-                  janitor::clean_names() %>% 
-                  rename_with(.fn = \(x) str_replace(x, 'member_of_assembly_\\d+th_assembly_district_', 'shd_14_')) %>% 
-                  rename_with(.fn = \(x) str_sub(x, 1, 10), .cols = starts_with('shd_')) %>% 
-                  rename(precinct = district, shd_total = ballots_cast_total_ballots_cast))
+                   janitor::clean_names() %>% 
+                   rename_with(.fn = \(x) str_replace(x, 'member_of_assembly_\\d+th_assembly_district_', 'shd_14_')) %>% 
+                   rename_with(.fn = \(x) str_sub(x, 1, 10), .cols = starts_with('shd_')) %>% 
+                   rename(precinct = district, shd_total = ballots_cast_total_ballots_cast))
 shd_14 <- bind_rows(shd_14) %>% 
   filter(precinct != 'COUNTY TOTALS') %>% 
   mutate(year = 2014L, office = 'NY Assembly', district = as.integer(str_extract(names, '\\d+$')),
@@ -936,7 +954,7 @@ prop_21 <- Filter(\(x) x$names[1] == '21_PROPS', el_l)[[1]] %>%
                 str_replace('proposal_five_an_amendment_',  'pr5_21_') %>% 
                 str_replace('_over_votes',  '_ove') %>% 
                 str_replace('_under_votes',  '_und')
-                ) %>% 
+  ) %>% 
   rename(precinct = precinct_name, pr_total = ballots_cast_total_ballots_cast) %>%  
   filter(precinct != 'COUNTY TOTALS') %>% 
   mutate(year = 2021L, office = 'Propositions', district = NA_integer_,
@@ -952,10 +970,10 @@ prop_21 <- Filter(\(x) x$names[1] == '21_PROPS', el_l)[[1]] %>%
 # 22 SHD (excel) ---
 shd_22_a <- Filter(\(x) str_detect(x$names[1], '22_\\d+th_Assembly_District'), el_l)
 shd_22_a <- lapply(shd_22_a, \(x) x %>% 
-                   janitor::clean_names() %>% 
-                   rename_with(.fn = \(x) str_replace(x, 'member_of_assembly_\\d+th_assembly_district_', 'shd_22_')) %>% 
-                   rename_with(.fn = \(x) str_sub(x, 1, 10), .cols = starts_with('shd_')) %>% 
-                   rename(precinct = precinct_name, shd_total = ballots_cast_total_ballots_cast))
+                     janitor::clean_names() %>% 
+                     rename_with(.fn = \(x) str_replace(x, 'member_of_assembly_\\d+th_assembly_district_', 'shd_22_')) %>% 
+                     rename_with(.fn = \(x) str_sub(x, 1, 10), .cols = starts_with('shd_')) %>% 
+                     rename(precinct = precinct_name, shd_total = ballots_cast_total_ballots_cast))
 shd_22_a <- bind_rows(shd_22_a) %>% 
   filter(precinct != 'COUNTY TOTALS') %>% 
   mutate(year = 2022L, office = 'NY Assembly', district = as.integer(str_extract(str_extract(names, '\\d+th_Assembly_District$'), '\\d+')),
@@ -1176,18 +1194,137 @@ uss_22 <- uss_22 %>%
     )
   )
 
+# XLS (2013) 
+
+# read in full data ----
+el_xls <- lapply(
+  dir_ls('data-raw/rockland_elections', glob = '*.xls'), 
+  function(x) {
+    z <- read_xls(x, .name_repair = \(x) vctrs::vec_as_names(x, repair = 'unique', quiet = TRUE)) |> 
+      select(-starts_with('...'))
+    
+    noms <- paste(
+      names(z),
+      sapply(z |> slice(1:2), \(y) paste0(na.omit(y), collapse = '_')),
+      sep = '_'
+    ) |> 
+      str_remove_all('\\.{3}\\d+')
+    
+    z |> 
+      slice(-c(1:2)) |> 
+      setNames(noms) |> 
+      mutate(file = x)
+  }
+)
+
+noms_xls <- names(el_xls) |> 
+  path_file() |> 
+  path_ext_remove() |> 
+  tibble(names = _) |> 
+  mutate(
+    names = ifelse(str_detect(names, 'COUNTYWIDE'), paste0('21', names), names),
+    names = ifelse(str_detect(names, 'COUNTWIDE'), paste0('21', names), names),
+    names = str_remove(names, 'GNYROCK'),
+    names = str_remove(names, 'COUNTYWIDE'),
+    names = str_remove(names, 'COUNTWIDE'),
+    names = str_remove(names, '_GE2014'),
+    names = str_remove(names, 'GENYRO'),
+    names = str_remove(names, 'ge20'),
+    names = str_remove(names, '_110513'),
+    names = case_when(
+      str_starts(names, '13') ~ names,
+      str_starts(names, '0') ~ paste0('2', names),
+      str_starts(names, '2') ~ names,
+      TRUE ~ paste0('1', names)
+    )
+  ) %>% 
+  bind_cols(tibble(file = names(el_xls)))
+names(el_xls) <- noms_xls$names
+el_xls <- lapply(el_xls, \(x) left_join(x, noms_xls, by = 'file'))
+
+# 13 County Clerk ----
+
+clk_13 <- Filter(\(x) x$names[1] == '13_cty_clk', el_xls)[[1]]
+clk_13 <- clk_13 %>% 
+  janitor::clean_names() %>% 
+  rename_with(.fn = \(x) str_replace(x, 'county_clerk_', 'clk_13_')) %>% 
+  rename_with(.fn = \(x) str_sub(x, 1, 10), .cols = starts_with('clk_')) %>% 
+  rename(precinct = district, clk_total = ballots_cast_total_ballots_cast) %>%  
+  filter(precinct != 'COUNTY TOTALS') %>% 
+  mutate(year = 2013L, office = 'County Clerk', district = NA_integer_,
+         across(starts_with('clk_'), \(x) replace_na(as.integer(x), 0L))) %>% 
+  select(precinct, office, district, year, clk_total, starts_with('clk')) %>% 
+  mutate(
+    precinct = paste0(
+      str_sub(precinct, 1, 1), 
+      str_pad(str_extract(precinct, '\\d+'), side = 'left', pad = '0', width = 2)
+    )
+  ) 
+
+# 13 County Executive ---- 
+
+exe_13 <- Filter(\(x) x$names[1] == '13_cty_exec', el_xls)[[1]]
+exe_13 <- exe_13 %>% 
+  janitor::clean_names() %>% 
+  rename_with(.fn = \(x) str_replace(x, 'county_executive_', 'exe_13_')) %>% 
+  rename_with(.fn = \(x) str_sub(x, 1, 10), .cols = starts_with('exe_')) %>% 
+  rename(precinct = district, exe_total = ballots_cast_total_ballots_cast) %>%  
+  filter(precinct != 'COUNTY TOTALS') %>% 
+  mutate(year = 2013L, office = 'County Executive', district = NA_integer_,
+         across(starts_with('exe_'), \(x) replace_na(as.integer(x), 0L))) %>% 
+  select(precinct, office, district, year, exe_total, starts_with('exe')) %>% 
+  mutate(
+    precinct = paste0(
+      str_sub(precinct, 1, 1), 
+      str_pad(str_extract(precinct, '\\d+'), side = 'left', pad = '0', width = 2)
+    )
+  )
+
+# 13 Supreme Court ----
+spc_13 <- Filter(\(x) x$names[1] == '13_cty_sup_crt', el_xls)[[1]]
+spc_13 <- spc_13 %>% 
+  janitor::clean_names() %>% 
+  rename_with(.fn = \(x) str_replace(x, 'supreme_court_justice_9th_judicial_district_', 'spc_13_')) %>%
+  rename_with(.fn = \(x) str_sub(x, 1, -4), .cols = ends_with('_jr')) %>% 
+  rename_with(.fn = \(x) str_sub(x, 1, -5), .cols = ends_with('_iii')) %>% 
+  rename_with(.fn = \(x) paste0(str_sub(x, 1, 10), '_', str_sub(word(x, start = -1, sep = '_'), 1, 3)), .cols = starts_with('spc_')) %>% 
+  rename(precinct = district) %>%  
+  filter(precinct != 'COUNTY TOTALS') %>% 
+  mutate(year = 2013L, office = 'Supreme Court Justice', district = NA_integer_,
+         across(starts_with('spc_'), \(x) replace_na(as.integer(x), 0L))) %>% 
+  mutate(spc_total = sum(c_across(starts_with('spc_'))), .by = precinct) %>% 
+  select(precinct, office, district, year, spc_total, starts_with('spc')) %>% 
+  mutate(
+    precinct = paste0(
+      str_sub(precinct, 1, 1), 
+      str_pad(str_extract(precinct, '\\d+'), side = 'left', pad = '0', width = 2)
+    )
+  )
+spc_13 <- spc_13 %>% 
+  rename_with(
+    .fn = \(x) str_sub(x, 1, 10),
+    .cols = ends_with(c('_wri_in', '_ove_vot', '_und_vot'))
+  )
+
+
 # bring it all together ----
 d_12_l <- lst(
-  atg_14, atg_18,  clk_17, clk_20, 
-  com_14, com_18, dat_15, dat_19,
-  exe_17, fam_15, gov_18, jud_14, 
-  jud_16, ld_14, ld_15, ld_18, ld_19,
-  pre_16, pre_20, shd_14, shd_16, shd_18, 
-  shd_20, shf_15, shf_19, 
-  spc_14, spc_15, spc_16, spc_17, spc_18, spc_19, spc_20, 
-  srj_17, ssd_14, ssd_16, ssd_18, ssd_20, 
-  ush_14, ush_16, ush_18, ush_20, uss_16, 
-  uss_18
+  atg_14, atg_18,  
+  clk_13, clk_17, clk_20, 
+  com_14, com_18, 
+  dat_15, dat_19, 
+  exe_13, exe_17, 
+  fam_15, 
+  gov_14, gov_18, 
+  jud_14, jud_16, ld_14, ld_15, ld_18, ld_19,
+  pre_16, pre_20, 
+  shd_14, shd_16, shd_18, shd_20, 
+  shf_15, shf_19, 
+  spc_13, spc_14, spc_15, spc_16, spc_17, spc_18, spc_19, spc_20, 
+  srj_17, 
+  ssd_14, ssd_16, ssd_18, ssd_20, 
+  ush_14, ush_16, ush_18, ush_20, 
+  uss_16, uss_18
 )
 
 d_21_l <- lst(

@@ -1,0 +1,660 @@
+source_file,office,office_short_name,office_year,year,party,candidate,column_stem
+data/elections/0GNYROCK_38TH_SENATE.xlsx,State Senator 38th Senatorial District,ssd,ssd_20,2020,DEM,Elijah Reichlin- Melnick,ssd_20_dem
+data/elections/0GNYROCK_38TH_SENATE.xlsx,State Senator 38th Senatorial District,ssd,ssd_20,2020,REP,Bill Weber,ssd_20_rep
+data/elections/0GNYROCK_38TH_SENATE.xlsx,State Senator 38th Senatorial District,ssd,ssd_20,2020,WOR,Elijah Reichlin- Melnick,ssd_20_wor
+data/elections/0GNYROCK_38TH_SENATE.xlsx,State Senator 38th Senatorial District,ssd,ssd_20,2020,SAM,Bill Weber,ssd_20_sam
+data/elections/0GNYROCK_39TH_SENATE.xlsx,State Senator 39th Senatorial District,ssd,ssd_20,2020,DEM,James G. Skoufis,ssd_20_dem
+data/elections/0GNYROCK_39TH_SENATE.xlsx,State Senator 39th Senatorial District,ssd,ssd_20,2020,REP,Steve Brescia,ssd_20_rep
+data/elections/0GNYROCK_39TH_SENATE.xlsx,State Senator 39th Senatorial District,ssd,ssd_20,2020,CON,Steve Brescia,ssd_20_con
+data/elections/0GNYROCK_39TH_SENATE.xlsx,State Senator 39th Senatorial District,ssd,ssd_20,2020,WOR,James G. Skoufis,ssd_20_wor
+data/elections/0GNYROCK_39TH_SENATE.xlsx,State Senator 39th Senatorial District,ssd,ssd_20,2020,SAM,James G. Skoufis,ssd_20_sam
+data/elections/0GNYROCK_96TH_ASSEMBLY.xlsx,Member of Assembly 96th Assembly District,shd,shd_20,2020,DEM,Kenneth P. Zebrowski,shd_20_dem
+data/elections/0GNYROCK_96TH_ASSEMBLY.xlsx,Member of Assembly 96th Assembly District,shd,shd_20,2020,WOR,Kenneth P. Zebrowski,shd_20_wor
+data/elections/0GNYROCK_96TH_ASSEMBLY.xlsx,Member of Assembly 96th Assembly District,shd,shd_20,2020,SAM,Kenneth P. Zebrowski,shd_20_sam
+data/elections/0GNYROCK_97TH_ASSEMBLY.xlsx,Member of Assembly 97th Assembly District,shd,shd_20,2020,DEM,Ellen C. Jaffee,shd_20_dem
+data/elections/0GNYROCK_97TH_ASSEMBLY.xlsx,Member of Assembly 97th Assembly District,shd,shd_20,2020,REP,Mike Lawler,shd_20_rep
+data/elections/0GNYROCK_97TH_ASSEMBLY.xlsx,Member of Assembly 97th Assembly District,shd,shd_20,2020,CON,Mike Lawler,shd_20_con
+data/elections/0GNYROCK_97TH_ASSEMBLY.xlsx,Member of Assembly 97th Assembly District,shd,shd_20,2020,IND,Mike Lawler,shd_20_ind
+data/elections/0GNYROCK_97TH_ASSEMBLY.xlsx,Member of Assembly 97th Assembly District,shd,shd_20,2020,SAM,Mike Lawler,shd_20_sam
+data/elections/0GNYROCK_98TH_ASSEMBLY.xlsx,Member of Assembly 98th Assembly District,shd,shd_20,2020,REP,Karl A. Brabenec,shd_20_rep
+data/elections/0GNYROCK_98TH_ASSEMBLY.xlsx,Member of Assembly 98th Assembly District,shd,shd_20,2020,CON,Karl A. Brabenec,shd_20_con
+data/elections/0GNYROCK_98TH_ASSEMBLY.xlsx,Member of Assembly 98th Assembly District,shd,shd_20,2020,IND,Karl A. Brabenec,shd_20_ind
+data/elections/0GNYROCK_99TH_ASSEMBLY.xlsx,Member of Assembly 99th Assembly District,shd,shd_20,2020,DEM,Sarita Bhandarkar,shd_20_dem
+data/elections/0GNYROCK_99TH_ASSEMBLY.xlsx,Member of Assembly 99th Assembly District,shd,shd_20,2020,REP,Colin J. Schmitt,shd_20_rep
+data/elections/0GNYROCK_99TH_ASSEMBLY.xlsx,Member of Assembly 99th Assembly District,shd,shd_20,2020,CON,Colin J. Schmitt,shd_20_con
+data/elections/0GNYROCK_99TH_ASSEMBLY.xlsx,Member of Assembly 99th Assembly District,shd,shd_20,2020,WOR,Sarita Bhandarkar,shd_20_wor
+data/elections/0GNYROCK_99TH_ASSEMBLY.xlsx,Member of Assembly 99th Assembly District,shd,shd_20,2020,LIB,Colin J. Schmitt,shd_20_lib
+data/elections/0GNYROCK_99TH_ASSEMBLY.xlsx,Member of Assembly 99th Assembly District,shd,shd_20,2020,IND,Colin J. Schmitt,shd_20_ind
+data/elections/0GNYROCK_99TH_ASSEMBLY.xlsx,Member of Assembly 99th Assembly District,shd,shd_20,2020,SAM,Colin J. Schmitt,shd_20_sam
+data/elections/0GNYROCK_COUNTY_CLERK.xlsx,County Clerk,clk,clk_20,2020,DEM,Donna Gorman Silberman,clk_20_dem
+data/elections/0GNYROCK_COUNTY_CLERK.xlsx,County Clerk,clk,clk_20,2020,REP,Patrick J. Carle,clk_20_rep
+data/elections/0GNYROCK_COUNTY_CLERK.xlsx,County Clerk,clk,clk_20,2020,IND,Donna Gorman Silberman,clk_20_ind
+data/elections/0GNYROCK_PRESIDENT.xlsx,Presidential Electors for President and Vice President,pre,pre_20,2020,DEM,Joseph R. Biden,pre_20_dem
+data/elections/0GNYROCK_PRESIDENT.xlsx,Presidential Electors for President and Vice President,pre,pre_20,2020,REP,Donald J. Trump,pre_20_rep
+data/elections/0GNYROCK_PRESIDENT.xlsx,Presidential Electors for President and Vice President,pre,pre_20,2020,CON,Donald J. Trump,pre_20_con
+data/elections/0GNYROCK_PRESIDENT.xlsx,Presidential Electors for President and Vice President,pre,pre_20,2020,WOR,Joseph R. Biden,pre_20_wor
+data/elections/0GNYROCK_PRESIDENT.xlsx,Presidential Electors for President and Vice President,pre,pre_20,2020,GRE,Howie Hawkins,pre_20_gre
+data/elections/0GNYROCK_PRESIDENT.xlsx,Presidential Electors for President and Vice President,pre,pre_20,2020,LIB,Jo Jorgensen,pre_20_lib
+data/elections/0GNYROCK_PRESIDENT.xlsx,Presidential Electors for President and Vice President,pre,pre_20,2020,IND,Brock Pierce,pre_20_ind
+data/elections/0GNYROCK_REP_IN_CONGRESS.xlsx,Representative in Congress,ush,ush_20,2020,DEM,Mondaire Jones,ush_20_dem
+data/elections/0GNYROCK_REP_IN_CONGRESS.xlsx,Representative in Congress,ush,ush_20,2020,REP,Maureen McArdle Schulman,ush_20_rep
+data/elections/0GNYROCK_REP_IN_CONGRESS.xlsx,Representative in Congress,ush,ush_20,2020,CON,Yehudis Gottesfeld,ush_20_con
+data/elections/0GNYROCK_REP_IN_CONGRESS.xlsx,Representative in Congress,ush,ush_20,2020,WOR,Mondaire Jones,ush_20_wor
+data/elections/0GNYROCK_REP_IN_CONGRESS.xlsx,Representative in Congress,ush,ush_20,2020,SAM,Michael I. Parietti,ush_20_sam
+data/elections/0GNYROCK_REP_IN_CONGRESS.xlsx,Representative in Congress,ush,ush_20,2020,ECL,Joshua Eisen,ush_20_ecl
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,DEM,E. Loren Williams,spc_20_dem
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,DEM,Alexandra D. Murphy,spc_20_dem
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,DEM,Robert S. Ondrovic,spc_20_dem
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,DEM,Sam D. Walker,spc_20_dem
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,REP,Richard J. Guertin,spc_20_rep
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,REP,Mark T. Starkman,spc_20_rep
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,REP,David V. Hasin,spc_20_rep
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,REP,Sam D. Walker,spc_20_rep
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,CON,Richard J. Guertin,spc_20_con
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,CON,Alexandra D. Murphy,spc_20_con
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,CON,Robert S. Ondrovic,spc_20_con
+data/elections/0GNYROCK_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_20,2020,CON,Sam D. Walker,spc_20_con
+data/elections/22GENYRO_97th_Assembly_District.xlsx,COUNTY NUMBER,shd,shd_22,2022,"""""","""""","shd_22_"""""
+data/elections/22GENYRO_97th_Assembly_District.xlsx,Member of Assembly 97th Assembly District,shd,shd_22,2022,DEM,Eudson Tyson Francois,shd_22_dem
+data/elections/22GENYRO_97th_Assembly_District.xlsx,Member of Assembly 97th Assembly District,shd,shd_22,2022,REP,John W. McGowan,shd_22_rep
+data/elections/22GENYRO_97th_Assembly_District.xlsx,Member of Assembly 97th Assembly District,shd,shd_22,2022,CON,John W. McGowan,shd_22_con
+data/elections/22GENYRO_98th_Assembly_District.xlsx,COUNTY NUMBER,shd,shd_22,2022,"""""","""""","shd_22_"""""
+data/elections/22GENYRO_98th_Assembly_District.xlsx,Member of Assembly 98th Assembly District,shd,shd_22,2022,DEM,Bruce M. Levine,shd_22_dem
+data/elections/22GENYRO_98th_Assembly_District.xlsx,Member of Assembly 98th Assembly District,shd,shd_22,2022,REP,Karl A. Brabenec,shd_22_rep
+data/elections/22GENYRO_98th_Assembly_District.xlsx,Member of Assembly 98th Assembly District,shd,shd_22,2022,CON,Karl A. Brabenec,shd_22_con
+data/elections/4GNYROCK_GE2014_ATTGEN.xlsx,ATTORNEY GENERAL,atg,atg_14,2014,DEM,Eric T. Schneiderman,atg_14_dem
+data/elections/4GNYROCK_GE2014_ATTGEN.xlsx,ATTORNEY GENERAL,atg,atg_14,2014,REP,John Cahill,atg_14_rep
+data/elections/4GNYROCK_GE2014_ATTGEN.xlsx,ATTORNEY GENERAL,atg,atg_14,2014,CON,John Cahill,atg_14_con
+data/elections/4GNYROCK_GE2014_ATTGEN.xlsx,ATTORNEY GENERAL,atg,atg_14,2014,WOR,Eric T. Schneiderman,atg_14_wor
+data/elections/4GNYROCK_GE2014_ATTGEN.xlsx,ATTORNEY GENERAL,atg,atg_14,2014,IND,Eric T. Schneiderman,atg_14_ind
+data/elections/4GNYROCK_GE2014_ATTGEN.xlsx,ATTORNEY GENERAL,atg,atg_14,2014,GRE,Ramon Jimenez,atg_14_gre
+data/elections/4GNYROCK_GE2014_ATTGEN.xlsx,ATTORNEY GENERAL,atg,atg_14,2014,LBT,Carl E. Person,atg_14_lbt
+data/elections/4GNYROCK_GE2014_COMPT.xlsx,COMPTROLLER,com,com_14,2014,DEM,Thomas P. DiNapoli,com_14_dem
+data/elections/4GNYROCK_GE2014_COMPT.xlsx,COMPTROLLER,com,com_14,2014,REP,Robert Antonacci,com_14_rep
+data/elections/4GNYROCK_GE2014_COMPT.xlsx,COMPTROLLER,com,com_14,2014,CON,Robert Antonacci,com_14_con
+data/elections/4GNYROCK_GE2014_COMPT.xlsx,COMPTROLLER,com,com_14,2014,WOR,Thomas P. DiNapoli,com_14_wor
+data/elections/4GNYROCK_GE2014_COMPT.xlsx,COMPTROLLER,com,com_14,2014,IND,Thomas P. DiNapoli,com_14_ind
+data/elections/4GNYROCK_GE2014_COMPT.xlsx,COMPTROLLER,com,com_14,2014,GRE,Theresa M. Portelli,com_14_gre
+data/elections/4GNYROCK_GE2014_COMPT.xlsx,COMPTROLLER,com,com_14,2014,LBT,John Clifton,com_14_lbt
+data/elections/4GNYROCK_GE2014_CTYCRTJUD.xlsx,COUNTY COURT JUDGE,jud,jud_14,2014,DEM,Rolf M. Thorsen,jud_14_dem
+data/elections/4GNYROCK_GE2014_CTYCRTJUD.xlsx,COUNTY COURT JUDGE,jud,jud_14,2014,REP,Michael A. Koplen,jud_14_rep
+data/elections/4GNYROCK_GE2014_CTYCRTJUD.xlsx,COUNTY COURT JUDGE,jud,jud_14,2014,CON,Rolf M. Thorsen,jud_14_con
+data/elections/4GNYROCK_GE2014_CTYCRTJUD.xlsx,COUNTY COURT JUDGE,jud,jud_14,2014,WOR,Rolf M. Thorsen,jud_14_wor
+data/elections/4GNYROCK_GE2014_CTYCRTJUD.xlsx,COUNTY COURT JUDGE,jud,jud_14,2014,IND,Rolf M. Thorsen,jud_14_ind
+data/elections/4GNYROCK_GE2014_CTYCRTJUD.xlsx,COUNTY COURT JUDGE,jud,jud_14,2014,SCC,Michael A. Koplen,jud_14_scc
+data/elections/4GNYROCK_GE2014_CTYLEG.xlsx,COUNTY LEGISLATOR 5th Legislative District,ld_,ld_14,2004,DEM,Barry S. Kantrowitz,ld_14_dem
+data/elections/4GNYROCK_GE2014_CTYLEG.xlsx,COUNTY LEGISLATOR 5th Legislative District,ld_,ld_14,2004,REP,Lon M. Hofstein,ld_14_rep
+data/elections/4GNYROCK_GE2014_CTYLEG.xlsx,COUNTY LEGISLATOR 5th Legislative District,ld_,ld_14,2004,CON,Lon M. Hofstein,ld_14_con
+data/elections/4GNYROCK_GE2014_CTYLEG.xlsx,COUNTY LEGISLATOR 5th Legislative District,ld_,ld_14,2004,WOR,Lon M. Hofstein,ld_14_wor
+data/elections/4GNYROCK_GE2014_CTYLEG.xlsx,COUNTY LEGISLATOR 5th Legislative District,ld_,ld_14,2004,IND,Barry S. Kantrowitz,ld_14_ind
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,DEM,Andrew M. Cuomo,gov_14_dem
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,REP,Rob Astorino,gov_14_rep
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,CON,Rob Astorino,gov_14_con
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,WOR,Andrew M. Cuomo,gov_14_wor
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,IND,Andrew M. Cuomo,gov_14_ind
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,GRE,Howie Hawkins,gov_14_gre
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,WEP,Andrew M. Cuomo,gov_14_wep
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,SAP,Steven Cohn,gov_14_sap
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,SCC,Rob Astorino,gov_14_scc
+data/elections/4GNYROCK_GE2014_GOV.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_14,2014,LBT,Michael McDermott,gov_14_lbt
+data/elections/4GNYROCK_GE2014_MEMASS_96.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_14,2014,DEM,Kenneth P. Zebrowski,shd_14_dem
+data/elections/4GNYROCK_GE2014_MEMASS_96.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_14,2014,REP,Matthew I. Brennan,shd_14_rep
+data/elections/4GNYROCK_GE2014_MEMASS_96.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_14,2014,WOR,Kenneth P. Zebrowski,shd_14_wor
+data/elections/4GNYROCK_GE2014_MEMASS_96.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_14,2014,PHP,Kenneth P. Zebrowski,shd_14_php
+data/elections/4GNYROCK_GE2014_MEMASS_97.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_14,2014,DEM,Ellen C. Jaffee,shd_14_dem
+data/elections/4GNYROCK_GE2014_MEMASS_97.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_14,2014,REP,Robert Romanowski,shd_14_rep
+data/elections/4GNYROCK_GE2014_MEMASS_97.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_14,2014,CON,Robert Romanowski,shd_14_con
+data/elections/4GNYROCK_GE2014_MEMASS_97.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_14,2014,WOR,Ellen C. Jaffee,shd_14_wor
+data/elections/4GNYROCK_GE2014_MEMASS_98.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_14,2014,DEM,Elisa A. Tutini,shd_14_dem
+data/elections/4GNYROCK_GE2014_MEMASS_98.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_14,2014,REP,Karl A. Brabenec,shd_14_rep
+data/elections/4GNYROCK_GE2014_MEMASS_98.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_14,2014,CON,Karl A. Brabenec,shd_14_con
+data/elections/4GNYROCK_GE2014_MEMASS_98.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_14,2014,WOR,Elisa A. Tutini,shd_14_wor
+data/elections/4GNYROCK_GE2014_MEMASS_98.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_14,2014,IND,Karl A. Brabenec,shd_14_ind
+data/elections/4GNYROCK_GE2014_MEMASS_98.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_14,2014,UMP,Daniel G. Castricone,shd_14_ump
+data/elections/4GNYROCK_GE2014_MEMASS_99.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_14,2014,DEM,James G. Skoufis,shd_14_dem
+data/elections/4GNYROCK_GE2014_MEMASS_99.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_14,2014,REP,Richard M. Cocchiara,shd_14_rep
+data/elections/4GNYROCK_GE2014_MEMASS_99.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_14,2014,CON,Richard M. Cocchiara,shd_14_con
+data/elections/4GNYROCK_GE2014_MEMASS_99.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_14,2014,WOR,James G. Skoufis,shd_14_wor
+data/elections/4GNYROCK_GE2014_MEMASS_99.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_14,2014,IND,Richard M. Cocchiara,shd_14_ind
+data/elections/4GNYROCK_GE2014_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS 17th Congressional District,ush,ush_14,2014,DEM,Nita M. Lowey,ush_14_dem
+data/elections/4GNYROCK_GE2014_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS 17th Congressional District,ush,ush_14,2014,REP,Christopher E. Day,ush_14_rep
+data/elections/4GNYROCK_GE2014_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS 17th Congressional District,ush,ush_14,2014,CON,Christopher E. Day,ush_14_con
+data/elections/4GNYROCK_GE2014_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS 17th Congressional District,ush,ush_14,2014,WOR,Nita M. Lowey,ush_14_wor
+data/elections/4GNYROCK_GE2014_STSEN_38.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_14,2014,DEM,David Carlucci,ssd_14_dem
+data/elections/4GNYROCK_GE2014_STSEN_38.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_14,2014,REP,Donna Held,ssd_14_rep
+data/elections/4GNYROCK_GE2014_STSEN_38.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_14,2014,WOR,David Carlucci,ssd_14_wor
+data/elections/4GNYROCK_GE2014_STSEN_38.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_14,2014,IND,David Carlucci,ssd_14_ind
+data/elections/4GNYROCK_GE2014_STSEN_39.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_14,2014,DEM,Gay Lee,ssd_14_dem
+data/elections/4GNYROCK_GE2014_STSEN_39.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_14,2014,REP,"William J. Larkin, Jr.",ssd_14_rep
+data/elections/4GNYROCK_GE2014_STSEN_39.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_14,2014,CON,"William J. Larkin, Jr.",ssd_14_con
+data/elections/4GNYROCK_GE2014_STSEN_39.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_14,2014,WOR,Gay Lee,ssd_14_wor
+data/elections/4GNYROCK_GE2014_STSEN_39.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_14,2014,IND,"William J. Larkin, Jr.",ssd_14_ind
+data/elections/4GNYROCK_GE2014_SUPCRT.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_14,2014,DEM,James W. Hubert,spc_14_dem
+data/elections/4GNYROCK_GE2014_SUPCRT.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_14,2014,REP,Montgomery J. Delaney,spc_14_rep
+data/elections/4GNYROCK_GE2014_SUPCRT.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_14,2014,CON,Montgomery J. Delaney,spc_14_con
+data/elections/4GNYROCK_GE2014_SUPCRT.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_14,2014,IND,James W. Hubert,spc_14_ind
+data/elections/5GNYROCK_DISTRICT_ATTORNEY.xlsx,DISTRICT ATTORNEY,dat,dat_15,2015,DEM,Thomas P. Zugibe,dat_15_dem
+data/elections/5GNYROCK_DISTRICT_ATTORNEY.xlsx,DISTRICT ATTORNEY,dat,dat_15,2015,CON,Thomas P. Zugibe,dat_15_con
+data/elections/5GNYROCK_DISTRICT_ATTORNEY.xlsx,DISTRICT ATTORNEY,dat,dat_15,2015,WOR,Thomas P. Zugibe,dat_15_wor
+data/elections/5GNYROCK_DISTRICT_ATTORNEY.xlsx,DISTRICT ATTORNEY,dat,dat_15,2015,IND,Thomas P. Zugibe,dat_15_ind
+data/elections/5GNYROCK_DISTRICT_ATTORNEY.xlsx,DISTRICT ATTORNEY,dat,dat_15,2015,WEP,Thomas P. Zugibe,dat_15_wep
+data/elections/5GNYROCK_FAM_COURT_JUDGE.xlsx,FAMILY COURT JUDGE,fam,fam_15,2015,DEM,Rachel E. Tanguay-McGuane,fam_15_dem
+data/elections/5GNYROCK_FAM_COURT_JUDGE.xlsx,FAMILY COURT JUDGE,fam,fam_15,2015,WOR,Rachel E. Tanguay-McGuane,fam_15_wor
+data/elections/5GNYROCK_FAM_COURT_JUDGE.xlsx,FAMILY COURT JUDGE,fam,fam_15,2015,IND,Rachel E. Tanguay-McGuane,fam_15_ind
+data/elections/5GNYROCK_FAM_COURT_JUDGE.xlsx,FAMILY COURT JUDGE,fam,fam_15,2015,WEP,Rachel E. Tanguay-McGuane,fam_15_wep
+data/elections/5GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_15,2015,REP,Douglas J. Jobson,rcl_15_rep
+data/elections/5GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_15,2015,CON,Douglas J. Jobson,rcl_15_con
+data/elections/5GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_15,2015,WOR,Douglas J. Jobson,rcl_15_wor
+data/elections/5GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_15,2015,IND,Douglas J. Jobson,rcl_15_ind
+data/elections/5GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_15,2015,REF,Douglas J. Jobson,rcl_15_ref
+data/elections/5GNYROCK_LD10.xlsx,COUNTY LEGISLATOR Legislative District 10,rcl,rcl_15,2015,DEM,Harriet D. Cornell,rcl_15_dem
+data/elections/5GNYROCK_LD10.xlsx,COUNTY LEGISLATOR Legislative District 10,rcl,rcl_15,2015,WOR,Harriet D. Cornell,rcl_15_wor
+data/elections/5GNYROCK_LD10.xlsx,COUNTY LEGISLATOR Legislative District 10,rcl,rcl_15,2015,IND,Harriet D. Cornell,rcl_15_ind
+data/elections/5GNYROCK_LD10.xlsx,COUNTY LEGISLATOR Legislative District 10,rcl,rcl_15,2015,WEP,Harriet D. Cornell,rcl_15_wep
+data/elections/5GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_15,2015,DEM,"Richard C. Diaz, Jr.",rcl_15_dem
+data/elections/5GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_15,2015,REP,Laurie A. Santulli,rcl_15_rep
+data/elections/5GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_15,2015,CON,"Richard C. Diaz, Jr.",rcl_15_con
+data/elections/5GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_15,2015,WOR,Laurie A. Santulli,rcl_15_wor
+data/elections/5GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_15,2015,IND,"Richard C. Diaz, Jr.",rcl_15_ind
+data/elections/5GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_15,2015,WEP,"Richard C. Diaz, Jr.",rcl_15_wep
+data/elections/5GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_15,2015,REF,Laurie A. Santulli,rcl_15_ref
+data/elections/5GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_15,2015,DEM,Patsy Wooters,rcl_15_dem
+data/elections/5GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_15,2015,REP,Charles J. Falciglia,rcl_15_rep
+data/elections/5GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_15,2015,GRE,Patsy Wooters,rcl_15_gre
+data/elections/5GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_15,2015,WOR,Patsy Wooters,rcl_15_wor
+data/elections/5GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_15,2015,WEP,Patsy Wooters,rcl_15_wep
+data/elections/5GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_15,2015,REF,Charles J. Falciglia,rcl_15_ref
+data/elections/5GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_15,2015,DEM,Aron B. Wieder,rcl_15_dem
+data/elections/5GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_15,2015,REP,Aron B. Wieder,rcl_15_rep
+data/elections/5GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_15,2015,WOR,Aron B. Wieder,rcl_15_wor
+data/elections/5GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_15,2015,IND,Aron B. Wieder,rcl_15_ind
+data/elections/5GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_15,2015,REF,Jacques O. Michel,rcl_15_ref
+data/elections/5GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_15,2015,DEM,Aney Paul,rcl_15_dem
+data/elections/5GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_15,2015,CON,Aney Paul,rcl_15_con
+data/elections/5GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_15,2015,WOR,Aney Paul,rcl_15_wor
+data/elections/5GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_15,2015,IND,Aney Paul,rcl_15_ind
+data/elections/5GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_15,2015,WEP,Aney Paul,rcl_15_wep
+data/elections/5GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_15,2015,REP,Patrick J. Moroney,rcl_15_rep
+data/elections/5GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_15,2015,CON,Patrick J. Moroney,rcl_15_con
+data/elections/5GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_15,2015,IND,Patrick J. Moroney,rcl_15_ind
+data/elections/5GNYROCK_LD16.xlsx,COUNTY LEGISLATOR Legislative District 16,rcl,rcl_15,2015,REP,Vince Tyer,rcl_15_rep
+data/elections/5GNYROCK_LD16.xlsx,COUNTY LEGISLATOR Legislative District 16,rcl,rcl_15,2015,CON,Vince Tyer,rcl_15_con
+data/elections/5GNYROCK_LD16.xlsx,COUNTY LEGISLATOR Legislative District 16,rcl,rcl_15,2015,IND,Vince Tyer,rcl_15_ind
+data/elections/5GNYROCK_LD16.xlsx,COUNTY LEGISLATOR Legislative District 16,rcl,rcl_15,2015,REF,Vince Tyer,rcl_15_ref
+data/elections/5GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_15,2015,DEM,Nancy Low-Hogan,rcl_15_dem
+data/elections/5GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_15,2015,CON,Michael J. Bryceland,rcl_15_con
+data/elections/5GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_15,2015,WOR,Nancy Low-Hogan,rcl_15_wor
+data/elections/5GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_15,2015,WEP,Nancy Low-Hogan,rcl_15_wep
+data/elections/5GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_15,2015,REF,Michael J. Bryceland,rcl_15_ref
+data/elections/5GNYROCK_LD2.xlsx,COUNTY LEGISLATOR Legislative District 2,rcl,rcl_15,2015,DEM,Michael M. Grant,rcl_15_dem
+data/elections/5GNYROCK_LD2.xlsx,COUNTY LEGISLATOR Legislative District 2,rcl,rcl_15,2015,REP,P.T. Thomas,rcl_15_rep
+data/elections/5GNYROCK_LD2.xlsx,COUNTY LEGISLATOR Legislative District 2,rcl,rcl_15,2015,REF,P.T. Thomas,rcl_15_ref
+data/elections/5GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_15,2015,DEM,"Jay Hood, Jr.",rcl_15_dem
+data/elections/5GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_15,2015,REP,Kevin R. Brestolli,rcl_15_rep
+data/elections/5GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_15,2015,CON,"Jay Hood, Jr.",rcl_15_con
+data/elections/5GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_15,2015,WOR,"Jay Hood, Jr.",rcl_15_wor
+data/elections/5GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_15,2015,IND,"Jay Hood, Jr.",rcl_15_ind
+data/elections/5GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_15,2015,WEP,"Jay Hood, Jr.",rcl_15_wep
+data/elections/5GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_15,2015,REF,Kevin R. Brestolli,rcl_15_ref
+data/elections/5GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_15,2015,DEM,Ilan S. Schoenberger,rcl_15_dem
+data/elections/5GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_15,2015,CON,Ilan S. Schoenberger,rcl_15_con
+data/elections/5GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_15,2015,WOR,Ilan S. Schoenberger,rcl_15_wor
+data/elections/5GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_15,2015,IND,Ilan S. Schoenberger,rcl_15_ind
+data/elections/5GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_15,2015,DEM,Christopher S. Martone,rcl_15_dem
+data/elections/5GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_15,2015,REP,Lon M. Hofstein,rcl_15_rep
+data/elections/5GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_15,2015,CON,Christopher S. Martone,rcl_15_con
+data/elections/5GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_15,2015,WOR,Christopher S. Martone,rcl_15_wor
+data/elections/5GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_15,2015,IND,Christopher S. Martone,rcl_15_ind
+data/elections/5GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_15,2015,WEP,Christopher S. Martone,rcl_15_wep
+data/elections/5GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_15,2015,REF,Lon M. Hofstein,rcl_15_ref
+data/elections/5GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_15,2015,DEM,Alden H. Wolfe,rcl_15_dem
+data/elections/5GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_15,2015,CON,Alden H. Wolfe,rcl_15_con
+data/elections/5GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_15,2015,WOR,Alden H. Wolfe,rcl_15_wor
+data/elections/5GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_15,2015,IND,Alden H. Wolfe,rcl_15_ind
+data/elections/5GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_15,2015,WEP,Alden H. Wolfe,rcl_15_wep
+data/elections/5GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_15,2015,DEM,Philip Soskin,rcl_15_dem
+data/elections/5GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_15,2015,CON,Philip Soskin,rcl_15_con
+data/elections/5GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_15,2015,WOR,Philip Soskin,rcl_15_wor
+data/elections/5GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_15,2015,IND,Philip Soskin,rcl_15_ind
+data/elections/5GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_15,2015,WEP,Philip Soskin,rcl_15_wep
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,DEM,"Toney L. Earl, Sr.",rcl_15_dem
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,REP,Betty Carmand,rcl_15_rep
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,CON,"Toney L. Earl, Sr.",rcl_15_con
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,WOR,"Toney L. Earl, Sr.",rcl_15_wor
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,IND,"Toney L. Earl, Sr.",rcl_15_ind
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,WEP,"Toney L. Earl, Sr.",rcl_15_wep
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,REF,Betty Carmand,rcl_15_ref
+data/elections/5GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_15,2015,CSV,Jean Claude A. Mehu,rcl_15_csv
+data/elections/5GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_15,2015,DEM,Thomas Ninan,rcl_15_dem
+data/elections/5GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_15,2015,REP,Christopher J. Carey,rcl_15_rep
+data/elections/5GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_15,2015,CON,Thomas Ninan,rcl_15_con
+data/elections/5GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_15,2015,IND,Thomas Ninan,rcl_15_ind
+data/elections/5GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_15,2015,WEP,Thomas Ninan,rcl_15_wep
+data/elections/5GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_15,2015,REF,Christopher J. Carey,rcl_15_ref
+data/elections/5GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_15,2015,DEM,Louis Falco III,shf_15_dem
+data/elections/5GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_15,2015,REP,Rich Vasquez,shf_15_rep
+data/elections/5GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_15,2015,CON,Louis Falco III,shf_15_con
+data/elections/5GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_15,2015,WOR,Louis Falco III,shf_15_wor
+data/elections/5GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_15,2015,IND,Louis Falco III,shf_15_ind
+data/elections/5GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_15,2015,WEP,Louis Falco III,shf_15_wep
+data/elections/5GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_15,2015,REF,Rich Vasquez,shf_15_ref
+data/elections/5GNYROCK_SUP_COURT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_15,2015,DEM,Gretchen Walsh,spc_15_dem
+data/elections/5GNYROCK_SUP_COURT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_15,2015,REP,Montgomery J. Delaney,spc_15_rep
+data/elections/5GNYROCK_SUP_COURT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_15,2015,CON,Montgomery J. Delaney,spc_15_con
+data/elections/5GNYROCK_SUP_COURT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_15,2015,IND,Gretchen Walsh,spc_15_ind
+data/elections/5GNYROCK_SUP_COURT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_15,2015,REF,Montgomery J. Delaney,spc_15_ref
+data/elections/6GNYROCK_38TH_SENATE.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_16,2016,DEM,David Carlucci,ssd_16_dem
+data/elections/6GNYROCK_38TH_SENATE.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_16,2016,REP,Thomas F. DePrisco,ssd_16_rep
+data/elections/6GNYROCK_38TH_SENATE.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_16,2016,CON,Thomas F. DePrisco,ssd_16_con
+data/elections/6GNYROCK_38TH_SENATE.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_16,2016,IND,David Carlucci,ssd_16_ind
+data/elections/6GNYROCK_38TH_SENATE.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_16,2016,WEP,David Carlucci,ssd_16_wep
+data/elections/6GNYROCK_38TH_SENATE.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_16,2016,REF,Thomas F. DePrisco,ssd_16_ref
+data/elections/6GNYROCK_39TH_SENATE.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_16,2016,DEM,Christopher W. Eachus,ssd_16_dem
+data/elections/6GNYROCK_39TH_SENATE.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_16,2016,REP,"William J. Larkin, Jr.",ssd_16_rep
+data/elections/6GNYROCK_39TH_SENATE.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_16,2016,CON,"William J. Larkin, Jr.",ssd_16_con
+data/elections/6GNYROCK_39TH_SENATE.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_16,2016,WOR,Christopher W. Eachus,ssd_16_wor
+data/elections/6GNYROCK_39TH_SENATE.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_16,2016,IND,"William J. Larkin, Jr.",ssd_16_ind
+data/elections/6GNYROCK_39TH_SENATE.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_16,2016,WEP,Christopher W. Eachus,ssd_16_wep
+data/elections/6GNYROCK_39TH_SENATE.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_16,2016,REF,"William J. Larkin, Jr.",ssd_16_ref
+data/elections/6GNYROCK_96TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_16,2016,DEM,Kenneth P. Zebrowski,shd_16_dem
+data/elections/6GNYROCK_96TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_16,2016,WOR,Kenneth P. Zebrowski,shd_16_wor
+data/elections/6GNYROCK_96TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_16,2016,WEP,Kenneth P. Zebrowski,shd_16_wep
+data/elections/6GNYROCK_96TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_16,2016,REF,Kenneth P. Zebrowski,shd_16_ref
+data/elections/6GNYROCK_97TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_16,2016,DEM,Ellen C. Jaffee,shd_16_dem
+data/elections/6GNYROCK_97TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_16,2016,REP,Joseph S. Chabot,shd_16_rep
+data/elections/6GNYROCK_97TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_16,2016,CON,Joseph S. Chabot,shd_16_con
+data/elections/6GNYROCK_97TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_16,2016,GRE,Ellen C. Jaffee,shd_16_gre
+data/elections/6GNYROCK_97TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_16,2016,WOR,Thomas M. Gulla,shd_16_wor
+data/elections/6GNYROCK_97TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_16,2016,REF,Joseph S. Chabot,shd_16_ref
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,DEM,Aron B. Wieder,shd_16_dem
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,REP,Karl Brabenec,shd_16_rep
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,CON,Aron B. Wieder,shd_16_con
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,GRE,Aron B. Wieder,shd_16_gre
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,IND,Aron B. Wieder,shd_16_ind
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,WEP,Aron B. Wieder,shd_16_wep
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,REF,Aron B. Wieder,shd_16_ref
+data/elections/6GNYROCK_98TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_16,2016,TCN,Karl Brabenec,shd_16_tcn
+data/elections/6GNYROCK_99TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_16,2016,DEM,James G. Skoufis,shd_16_dem
+data/elections/6GNYROCK_99TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_16,2016,REP,Colin J. Schmitt,shd_16_rep
+data/elections/6GNYROCK_99TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_16,2016,CON,Colin J. Schmitt,shd_16_con
+data/elections/6GNYROCK_99TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_16,2016,WOR,James G. Skoufis,shd_16_wor
+data/elections/6GNYROCK_99TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_16,2016,IND,Colin J. Schmitt,shd_16_ind
+data/elections/6GNYROCK_99TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_16,2016,WEP,James G. Skoufis,shd_16_wep
+data/elections/6GNYROCK_99TH_ASSEM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_16,2016,REF,Colin J. Schmitt,shd_16_ref
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,DEM,Kevin F. Russo,jud_16_dem
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,DEM,Larry J. Schwartz,jud_16_dem
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,REP,Patrick J. Loftus,jud_16_rep
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,CON,Patrick J. Loftus,jud_16_con
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,CON,Larry J. Schwartz,jud_16_con
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,GRE,Kevin F. Russo,jud_16_gre
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,GRE,Patrick J. Loftus,jud_16_gre
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,WOR,Kevin F. Russo,jud_16_wor
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,WOR,Larry J. Schwartz,jud_16_wor
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,IND,Larry J. Schwartz,jud_16_ind
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,WEP,Howard Gerber,jud_16_wep
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,REF,Howard Gerber,jud_16_ref
+data/elections/6GNYROCK_COUNTY_COURT_JUST.xlsx,COUNTY COURT JUSTICE,jud,jud_16,2016,REF,Patrick J. Loftus,jud_16_ref
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,DEM,Hillary Clinton,pre_16_dem
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,REP,Donald J. Trump,pre_16_rep
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,CON,Donald J. Trump,pre_16_con
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,GRE,Jill Stein,pre_16_gre
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,WOR,Hillary Clinton,pre_16_wor
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,IND,Gary Johnson,pre_16_ind
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,WEP,Hillary Clinton,pre_16_wep
+data/elections/6GNYROCK_PRESIDENT.xlsx,PRESIDENTIAL ELECTORS FOR PRESIDENT AND VICE PRESIDENT,pre,pre_16,2016,LBT,Gary Johnson,pre_16_lbt
+data/elections/6GNYROCK_REP_CONGRESS.xlsx,REPRESENTATIVE IN CONGRESS,ush,ush_16,2016,DEM,Nita M. Lowey,ush_16_dem
+data/elections/6GNYROCK_REP_CONGRESS.xlsx,REPRESENTATIVE IN CONGRESS,ush,ush_16,2016,WOR,Nita M. Lowey,ush_16_wor
+data/elections/6GNYROCK_REP_CONGRESS.xlsx,REPRESENTATIVE IN CONGRESS,ush,ush_16,2016,WEP,Nita M. Lowey,ush_16_wep
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,DEM,Linda S. Jamieson,spc_16_dem
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,DEM,Janet C. Malone,spc_16_dem
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,DEM,Thomas E. Walsh II,spc_16_dem
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,REP,Linda S. Jamieson,spc_16_rep
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,REP,Janet C. Malone,spc_16_rep
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,REP,Thomas E. Walsh II,spc_16_rep
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,CON,Linda S. Jamieson,spc_16_con
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,CON,Janet C. Malone,spc_16_con
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,CON,Thomas E. Walsh II,spc_16_con
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,WOR,Linda S. Jamieson,spc_16_wor
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,WOR,Janet C. Malone,spc_16_wor
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,WOR,Thomas E. Walsh II,spc_16_wor
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,IND,Linda S. Jamieson,spc_16_ind
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,IND,Janet C. Malone,spc_16_ind
+data/elections/6GNYROCK_SSCJ.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_16,2016,IND,Thomas E. Walsh II,spc_16_ind
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,DEM,Charles E. Schumer,uss_16_dem
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,REP,Wendy Long,uss_16_rep
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,CON,Wendy Long,uss_16_con
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,GRE,Robin Laverne Wilson,uss_16_gre
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,WOR,Charles E. Schumer,uss_16_wor
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,IND,Charles E. Schumer,uss_16_ind
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,WEP,Charles E. Schumer,uss_16_wep
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,REF,Wendy Long,uss_16_ref
+data/elections/6GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_16,2016,LBT,Alex Merced,uss_16_lbt
+data/elections/7GNYROCK_COUNTY_CLK.xlsx,COUNTY CLERK,clk,clk_17,2017,DEM,Paul Piperato,clk_17_dem
+data/elections/7GNYROCK_COUNTY_CLK.xlsx,COUNTY CLERK,clk,clk_17,2017,CON,Paul Piperato,clk_17_con
+data/elections/7GNYROCK_COUNTY_CLK.xlsx,COUNTY CLERK,clk,clk_17,2017,WOR,Paul Piperato,clk_17_wor
+data/elections/7GNYROCK_COUNTY_CLK.xlsx,COUNTY CLERK,clk,clk_17,2017,IND,Paul Piperato,clk_17_ind
+data/elections/7GNYROCK_COUNTY_CLK.xlsx,COUNTY CLERK,clk,clk_17,2017,WEP,Paul Piperato,clk_17_wep
+data/elections/7GNYROCK_COUNTY_EXEC.xlsx,COUNTY EXECUTIVE,exe,exe_17,2017,DEM,Maureen A. Porette,exe_17_dem
+data/elections/7GNYROCK_COUNTY_EXEC.xlsx,COUNTY EXECUTIVE,exe,exe_17,2017,REP,Ed Day,exe_17_rep
+data/elections/7GNYROCK_COUNTY_EXEC.xlsx,COUNTY EXECUTIVE,exe,exe_17,2017,CON,Thomas F. Sullivan,exe_17_con
+data/elections/7GNYROCK_COUNTY_EXEC.xlsx,COUNTY EXECUTIVE,exe,exe_17,2017,WOR,Maureen A. Porette,exe_17_wor
+data/elections/7GNYROCK_COUNTY_EXEC.xlsx,COUNTY EXECUTIVE,exe,exe_17,2017,WEP,Maureen A. Porette,exe_17_wep
+data/elections/7GNYROCK_COUNTY_EXEC.xlsx,COUNTY EXECUTIVE,exe,exe_17,2017,REF,Ed Day,exe_17_ref
+data/elections/7GNYROCK_SUP_CRT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_17,2017,DEM,Christi J. Acker,spc_17_dem
+data/elections/7GNYROCK_SUP_CRT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_17,2017,REP,Linda M. Murray,spc_17_rep
+data/elections/7GNYROCK_SUP_CRT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_17,2017,CON,Linda M. Murray,spc_17_con
+data/elections/7GNYROCK_SUP_CRT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_17,2017,WOR,Christi J. Acker,spc_17_wor
+data/elections/7GNYROCK_SUP_CRT_JUST.xlsx,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_17,2017,IND,Linda M. Murray,spc_17_ind
+data/elections/7GNYROCK_SUR_JUDGE.xlsx,SURROGATE JUDGE,srj,srj_17,2017,DEM,Keith J. Cornell,srj_17_dem
+data/elections/7GNYROCK_SUR_JUDGE.xlsx,SURROGATE JUDGE,srj,srj_17,2017,REP,Michael A. Koplen,srj_17_rep
+data/elections/7GNYROCK_SUR_JUDGE.xlsx,SURROGATE JUDGE,srj,srj_17,2017,CON,Keith J. Cornell,srj_17_con
+data/elections/7GNYROCK_SUR_JUDGE.xlsx,SURROGATE JUDGE,srj,srj_17,2017,WOR,Alden H. Wolfe,srj_17_wor
+data/elections/7GNYROCK_SUR_JUDGE.xlsx,SURROGATE JUDGE,srj,srj_17,2017,WEP,Alden H. Wolfe,srj_17_wep
+data/elections/7GNYROCK_SUR_JUDGE.xlsx,SURROGATE JUDGE,srj,srj_17,2017,REF,Alden H. Wolfe,srj_17_ref
+data/elections/8GNYROCK_38TH_SENATORIAL.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_18,2018,DEM,David Carlucci,ssd_18_dem
+data/elections/8GNYROCK_38TH_SENATORIAL.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_18,2018,REP,C. Scott Vanderhoef,ssd_18_rep
+data/elections/8GNYROCK_38TH_SENATORIAL.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_18,2018,CON,C. Scott Vanderhoef,ssd_18_con
+data/elections/8GNYROCK_38TH_SENATORIAL.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_18,2018,IND,C. Scott Vanderhoef,ssd_18_ind
+data/elections/8GNYROCK_38TH_SENATORIAL.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_18,2018,WEP,David Carlucci,ssd_18_wep
+data/elections/8GNYROCK_38TH_SENATORIAL.xlsx,STATE SENATOR 38th Senatorial District,ssd,ssd_18,2018,REF,C. Scott Vanderhoef,ssd_18_ref
+data/elections/8GNYROCK_39TH_SENATORIAL.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_18,2018,DEM,James G. Skoufis,ssd_18_dem
+data/elections/8GNYROCK_39TH_SENATORIAL.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_18,2018,REP,Tom Basile,ssd_18_rep
+data/elections/8GNYROCK_39TH_SENATORIAL.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_18,2018,CON,Tom Basile,ssd_18_con
+data/elections/8GNYROCK_39TH_SENATORIAL.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_18,2018,WOR,James G. Skoufis,ssd_18_wor
+data/elections/8GNYROCK_39TH_SENATORIAL.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_18,2018,IND,Tom Basile,ssd_18_ind
+data/elections/8GNYROCK_39TH_SENATORIAL.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_18,2018,WEP,James G. Skoufis,ssd_18_wep
+data/elections/8GNYROCK_39TH_SENATORIAL.xlsx,STATE SENATOR 39th Senatorial District,ssd,ssd_18,2018,REF,James G. Skoufis,ssd_18_ref
+data/elections/8GNYROCK_96TH_ASM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_18,2018,DEM,Kenneth P. Zebrowski,shd_18_dem
+data/elections/8GNYROCK_96TH_ASM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_18,2018,WOR,Kenneth P. Zebrowski,shd_18_wor
+data/elections/8GNYROCK_96TH_ASM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_18,2018,WEP,Kenneth P. Zebrowski,shd_18_wep
+data/elections/8GNYROCK_96TH_ASM.xlsx,MEMBER OF ASSEMBLY 96th Assembly District,shd,shd_18,2018,REF,Kenneth P. Zebrowski,shd_18_ref
+data/elections/8GNYROCK_97TH_ASM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_18,2018,DEM,Ellen C. Jaffee,shd_18_dem
+data/elections/8GNYROCK_97TH_ASM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_18,2018,REP,"Rosario Presti, Jr.",shd_18_rep
+data/elections/8GNYROCK_97TH_ASM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_18,2018,CON,"Rosario Presti, Jr.",shd_18_con
+data/elections/8GNYROCK_97TH_ASM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_18,2018,WOR,Ellen C. Jaffee,shd_18_wor
+data/elections/8GNYROCK_97TH_ASM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_18,2018,WEP,Ellen C. Jaffee,shd_18_wep
+data/elections/8GNYROCK_97TH_ASM.xlsx,MEMBER OF ASSEMBLY 97th Assembly District,shd,shd_18,2018,REF,Ellen C. Jaffee,shd_18_ref
+data/elections/8GNYROCK_98TH_ASM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_18,2018,DEM,Scott Martens,shd_18_dem
+data/elections/8GNYROCK_98TH_ASM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_18,2018,REP,Karl A. Brabenec,shd_18_rep
+data/elections/8GNYROCK_98TH_ASM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_18,2018,CON,Karl A. Brabenec,shd_18_con
+data/elections/8GNYROCK_98TH_ASM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_18,2018,WOR,Scott Martens,shd_18_wor
+data/elections/8GNYROCK_98TH_ASM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_18,2018,IND,Karl A. Brabenec,shd_18_ind
+data/elections/8GNYROCK_98TH_ASM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_18,2018,WEP,Scott Martens,shd_18_wep
+data/elections/8GNYROCK_98TH_ASM.xlsx,MEMBER OF ASSEMBLY 98th Assembly District,shd,shd_18,2018,REF,Karl A. Brabenec,shd_18_ref
+data/elections/8GNYROCK_99TH_ASM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_18,2018,DEM,Matthew A. Rettig,shd_18_dem
+data/elections/8GNYROCK_99TH_ASM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_18,2018,REP,Colin J. Schmitt,shd_18_rep
+data/elections/8GNYROCK_99TH_ASM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_18,2018,CON,Colin J. Schmitt,shd_18_con
+data/elections/8GNYROCK_99TH_ASM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_18,2018,WOR,Matthew A. Rettig,shd_18_wor
+data/elections/8GNYROCK_99TH_ASM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_18,2018,IND,Colin J. Schmitt,shd_18_ind
+data/elections/8GNYROCK_99TH_ASM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_18,2018,WEP,Matthew A. Rettig,shd_18_wep
+data/elections/8GNYROCK_99TH_ASM.xlsx,MEMBER OF ASSEMBLY 99th Assembly District,shd,shd_18,2018,REF,Colin J. Schmitt,shd_18_ref
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,DEM,Letitia A. James,atg_18_dem
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,REP,Keith Wofford,atg_18_rep
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,CON,Keith Wofford,atg_18_con
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,GRE,Michael Sussman,atg_18_gre
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,WOR,Letitia A. James,atg_18_wor
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,IND,Letitia A. James,atg_18_ind
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,REF,Nancy B. Sliwa,atg_18_ref
+data/elections/8GNYROCK_ATT_GEN.xlsx,ATTORNEY GENERAL,atg,atg_18,2018,LBT,Christopher B. Garvey,atg_18_lbt
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,DEM,Thomas P. DiNapoli,com_18_dem
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,REP,Jonathan Trichter,com_18_rep
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,CON,Jonathan Trichter,com_18_con
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,GRE,Mark Dunlea,com_18_gre
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,WOR,Thomas P. DiNapoli,com_18_wor
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,IND,Thomas P. DiNapoli,com_18_ind
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,WEP,Thomas P. DiNapoli,com_18_wep
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,REF,Thomas P. DiNapoli,com_18_ref
+data/elections/8GNYROCK_COMPTROLLER.xlsx,COMPTROLLER,com,com_18,2018,LBT,Cruger E. Gallaudet,com_18_lbt
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,DEM,Andrew M. Cuomo,gov_18_dem
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,REP,Marc Molinaro,gov_18_rep
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,CON,Marc Molinaro,gov_18_con
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,GRE,Howie Hawkins,gov_18_gre
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,WOR,Andrew M. Cuomo,gov_18_wor
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,IND,Andrew M. Cuomo,gov_18_ind
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,WEP,Andrew M. Cuomo,gov_18_wep
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,REF,Marc Molinaro,gov_18_ref
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,SAM,Stephanie A. Miner,gov_18_sam
+data/elections/8GNYROCK_GOVERNOR.xlsx,GOVERNOR AND LIEUTENANT GOVERNOR,gov,gov_18,2018,LBT,Larry Sharpe,gov_18_lbt
+data/elections/8GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_18,2018,DEM,Itamar J. Yeger,rcl_18_dem
+data/elections/8GNYROCK_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS,ush,ush_18,2018,DEM,Nita M. Lowey,ush_18_dem
+data/elections/8GNYROCK_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS,ush,ush_18,2018,WOR,Nita M. Lowey,ush_18_wor
+data/elections/8GNYROCK_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS,ush,ush_18,2018,WEP,Nita M. Lowey,ush_18_wep
+data/elections/8GNYROCK_REP_CONG.xlsx,REPRESENTATIVE IN CONGRESS,ush,ush_18,2018,REF,Joseph J. Ciardullo,ush_18_ref
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,DEM,Hal B. Greenwald,spc_18_dem
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,DEM,Kathie E. Davidson,spc_18_dem
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,DEM,William J. Giacomo,spc_18_dem
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,DEM,David F. Everett,spc_18_dem
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,DEM,Barry E. Warhit,spc_18_dem
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,DEM,Joan B. Lefkowitz,spc_18_dem
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,DEM,Thomas P. Zugibe,spc_18_dem
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,REP,James F. Reitz,spc_18_rep
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,REP,Kathie E. Davidson,spc_18_rep
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,REP,"Phillip A. Grimaldi, Jr.",spc_18_rep
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,REP,Robert H. Freehill,spc_18_rep
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,CON,James F. Reitz,spc_18_con
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,CON,Kathie E. Davidson,spc_18_con
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,CON,"Phillip A. Grimaldi, Jr.",spc_18_con
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,CON,Robert H. Freehill,spc_18_con
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,CON,Thomas P. Zugibe,spc_18_con
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,IND,Kathie E. Davidson,spc_18_ind
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,IND,William J. Giacomo,spc_18_ind
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,IND,Robert H. Freehill,spc_18_ind
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,IND,Joan B. Lefkowitz,spc_18_ind
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,IND,Thomas P. Zugibe,spc_18_ind
+data/elections/8GNYROCK_SUPREME_COURT.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_18,2018,REF,Robert H. Freehill,spc_18_ref
+data/elections/8GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_18,2018,DEM,Kirsten E. Gillibrand,uss_18_dem
+data/elections/8GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_18,2018,REP,Chele Chiavacci Farley,uss_18_rep
+data/elections/8GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_18,2018,CON,Chele Chiavacci Farley,uss_18_con
+data/elections/8GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_18,2018,WOR,Kirsten E. Gillibrand,uss_18_wor
+data/elections/8GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_18,2018,IND,Kirsten E. Gillibrand,uss_18_ind
+data/elections/8GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_18,2018,WEP,Kirsten E. Gillibrand,uss_18_wep
+data/elections/8GNYROCK_US_SENATOR.xlsx,UNITED STATES SENATOR,uss,uss_18,2018,REF,Chele Chiavacci Farley,uss_18_ref
+data/elections/9GNYROCK_DA.xlsx,DISTRICT ATTORNEY,dat,dat_19,2019,DEM,Thomas Walsh,dat_19_dem
+data/elections/9GNYROCK_DA.xlsx,DISTRICT ATTORNEY,dat,dat_19,2019,REP,Thomas Walsh,dat_19_rep
+data/elections/9GNYROCK_DA.xlsx,DISTRICT ATTORNEY,dat,dat_19,2019,CON,Thomas Walsh,dat_19_con
+data/elections/9GNYROCK_DA.xlsx,DISTRICT ATTORNEY,dat,dat_19,2019,WOR,Ken Zebrowski,dat_19_wor
+data/elections/9GNYROCK_DA.xlsx,DISTRICT ATTORNEY,dat,dat_19,2019,SRK,"Mike Diederich, Jr.",dat_19_srk
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,DEM,Nancy Quinn Koba,spc_19_dem
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,DEM,Steven I. Milligram,spc_19_dem
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,DEM,Lewis J. Lubell,spc_19_dem
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,DEM,Gina C. Capone,spc_19_dem
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,REP,Robert H. Freehill,spc_19_rep
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,REP,Steven I. Milligram,spc_19_rep
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,REP,Lewis J. Lubell,spc_19_rep
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,REP,Gina C. Capone,spc_19_rep
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,CON,Robert H. Freehill,spc_19_con
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,CON,Steven I. Milligram,spc_19_con
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,CON,Lewis J. Lubell,spc_19_con
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,CON,Gina C. Capone,spc_19_con
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,IND,Robert H. Freehill,spc_19_ind
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,IND,Steven I. Milligram,spc_19_ind
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,IND,Lewis J. Lubell,spc_19_ind
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,IND,Gina C. Capone,spc_19_ind
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,SAM,Nancy Quinn Koba,spc_19_sam
+data/elections/9GNYROCK_JUSTICE_SC.xlsx,JUSTICE OF THE SUPREME COURT 9th Judicial District,spc,spc_19,2019,SAM,Lewis J. Lubell,spc_19_sam
+data/elections/9GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_19,2019,DEM,Mari Morrison Rodriguez,rcl_19_dem
+data/elections/9GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_19,2019,REP,Douglas Jobson,rcl_19_rep
+data/elections/9GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_19,2019,CON,Douglas Jobson,rcl_19_con
+data/elections/9GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_19,2019,WOR,Douglas Jobson,rcl_19_wor
+data/elections/9GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_19,2019,IND,Douglas Jobson,rcl_19_ind
+data/elections/9GNYROCK_LD1.xlsx,COUNTY LEGISLATOR Legislative District 1,rcl,rcl_19,2019,SAM,Michael I. Parietti,rcl_19_sam
+data/elections/9GNYROCK_LD10.xlsx,COUNTY LEGISLATOR Legislative District 10,rcl,rcl_19,2019,DEM,Harriet D. Cornell,rcl_19_dem
+data/elections/9GNYROCK_LD10.xlsx,COUNTY LEGISLATOR Legislative District 10,rcl,rcl_19,2019,REP,Eric Meier,rcl_19_rep
+data/elections/9GNYROCK_LD10.xlsx,COUNTY LEGISLATOR Legislative District 10,rcl,rcl_19,2019,WOR,Harriet D. Cornell,rcl_19_wor
+data/elections/9GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_19,2019,REP,Laurie A. Santulli,rcl_19_rep
+data/elections/9GNYROCK_LD11.xlsx,COUNTY LEGISLATOR Legislative District 11,rcl,rcl_19,2019,WOR,Laurie A. Santulli,rcl_19_wor
+data/elections/9GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_19,2019,DEM,David J. Stein,rcl_19_dem
+data/elections/9GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_19,2019,REP,Charles J. Falciglia,rcl_19_rep
+data/elections/9GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_19,2019,CON,Charles J. Falciglia,rcl_19_con
+data/elections/9GNYROCK_LD12.xlsx,COUNTY LEGISLATOR Legislative District 12,rcl,rcl_19,2019,SAM,Charles J. Falciglia,rcl_19_sam
+data/elections/9GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_19,2019,DEM,Aron B. Wieder,rcl_19_dem
+data/elections/9GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_19,2019,REP,Aron B. Wieder,rcl_19_rep
+data/elections/9GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_19,2019,CON,Aron B. Wieder,rcl_19_con
+data/elections/9GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_19,2019,GRE,Aron B. Wieder,rcl_19_gre
+data/elections/9GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_19,2019,IND,Aron B. Wieder,rcl_19_ind
+data/elections/9GNYROCK_LD13.xlsx,COUNTY LEGISLATOR Legislative District 13,rcl,rcl_19,2019,SAM,Vivian S. Street,rcl_19_sam
+data/elections/9GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_19,2019,DEM,Aney Paul,rcl_19_dem
+data/elections/9GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_19,2019,REP,Agin Antony,rcl_19_rep
+data/elections/9GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_19,2019,CON,Aney Paul,rcl_19_con
+data/elections/9GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_19,2019,WOR,Aney Paul,rcl_19_wor
+data/elections/9GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_19,2019,IND,Aney Paul,rcl_19_ind
+data/elections/9GNYROCK_LD14.xlsx,COUNTY LEGISLATOR Legislative District 14,rcl,rcl_19,2019,SAM,Agin Antony,rcl_19_sam
+data/elections/9GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_19,2019,DEM,Julie M. Goldberg,rcl_19_dem
+data/elections/9GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_19,2019,REP,John W. McGowan,rcl_19_rep
+data/elections/9GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_19,2019,CON,John W. McGowan,rcl_19_con
+data/elections/9GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_19,2019,WOR,Julie M. Goldberg,rcl_19_wor
+data/elections/9GNYROCK_LD15.xlsx,COUNTY LEGISLATOR Legislative District 15,rcl,rcl_19,2019,SAM,John W. McGowan,rcl_19_sam
+data/elections/9GNYROCK_LD16.xlsx,COUNTY LEGISLATOR Legislative District 16,rcl,rcl_19,2019,REP,"Vincent D. Tyer, III",rcl_19_rep
+data/elections/9GNYROCK_LD16.xlsx,COUNTY LEGISLATOR Legislative District 16,rcl,rcl_19,2019,CON,"Vincent D. Tyer, III",rcl_19_con
+data/elections/9GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_19,2019,DEM,Nancy J. Low-Hogan,rcl_19_dem
+data/elections/9GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_19,2019,REP,James J. Foley,rcl_19_rep
+data/elections/9GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_19,2019,WOR,Nancy J. Low-Hogan,rcl_19_wor
+data/elections/9GNYROCK_LD17.xlsx,COUNTY LEGISLATOR Legislative District 17,rcl,rcl_19,2019,SAM,James J. Foley,rcl_19_sam
+data/elections/9GNYROCK_LD2.xlsx,COUNTY LEGISLATOR Legislative District 2,rcl,rcl_19,2019,DEM,Michael M. Grant,rcl_19_dem
+data/elections/9GNYROCK_LD2.xlsx,COUNTY LEGISLATOR Legislative District 2,rcl,rcl_19,2019,REP,Brett L. Yagel,rcl_19_rep
+data/elections/9GNYROCK_LD2.xlsx,COUNTY LEGISLATOR Legislative District 2,rcl,rcl_19,2019,SAM,Brett L. Yagel,rcl_19_sam
+data/elections/9GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_19,2019,DEM,"Jay Hood, Jr.",rcl_19_dem
+data/elections/9GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_19,2019,CON,"Jay Hood, Jr.",rcl_19_con
+data/elections/9GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_19,2019,WOR,"Jay Hood, Jr.",rcl_19_wor
+data/elections/9GNYROCK_LD3.xlsx,COUNTY LEGISLATOR Legislative District 3,rcl,rcl_19,2019,IND,"Jay Hood, Jr.",rcl_19_ind
+data/elections/9GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_19,2019,DEM,Itamar J. Yeger,rcl_19_dem
+data/elections/9GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_19,2019,IND,Itamar J. Yeger,rcl_19_ind
+data/elections/9GNYROCK_LD4.xlsx,COUNTY LEGISLATOR Legislative District 4,rcl,rcl_19,2019,SAM,Alan A. Escoffery,rcl_19_sam
+data/elections/9GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_19,2019,DEM,Laura Rose,rcl_19_dem
+data/elections/9GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_19,2019,REP,Lon M. Hofstein,rcl_19_rep
+data/elections/9GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_19,2019,CON,Lon M. Hofstein,rcl_19_con
+data/elections/9GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_19,2019,WOR,Laura Rose,rcl_19_wor
+data/elections/9GNYROCK_LD5.xlsx,COUNTY LEGISLATOR Legislative District 5,rcl,rcl_19,2019,SAM,Lon M. Hofstein,rcl_19_sam
+data/elections/9GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_19,2019,DEM,Alden H. Wolfe,rcl_19_dem
+data/elections/9GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_19,2019,REP,Robert Romanowski,rcl_19_rep
+data/elections/9GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_19,2019,CON,Alden H. Wolfe,rcl_19_con
+data/elections/9GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_19,2019,WOR,Alden H. Wolfe,rcl_19_wor
+data/elections/9GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_19,2019,IND,Alden H. Wolfe,rcl_19_ind
+data/elections/9GNYROCK_LD6.xlsx,COUNTY LEGISLATOR Legislative District 6,rcl,rcl_19,2019,SAM,Robert Romanowski,rcl_19_sam
+data/elections/9GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_19,2019,DEM,Philip Soskin,rcl_19_dem
+data/elections/9GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_19,2019,WOR,Philip Soskin,rcl_19_wor
+data/elections/9GNYROCK_LD7.xlsx,COUNTY LEGISLATOR Legislative District 7,rcl,rcl_19,2019,IND,Philip Soskin,rcl_19_ind
+data/elections/9GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_19,2019,DEM,"Toney L. Earl, Sr.",rcl_19_dem
+data/elections/9GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_19,2019,CON,"Toney L. Earl, Sr.",rcl_19_con
+data/elections/9GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_19,2019,WOR,"Toney L. Earl, Sr.",rcl_19_wor
+data/elections/9GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_19,2019,IND,"Toney L. Earl, Sr.",rcl_19_ind
+data/elections/9GNYROCK_LD8.xlsx,COUNTY LEGISLATOR Legislative District 8,rcl,rcl_19,2019,SAM,Rudy S. Laurent,rcl_19_sam
+data/elections/9GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_19,2019,DEM,Sandra T. Davis,rcl_19_dem
+data/elections/9GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_19,2019,REP,Christopher J. Carey,rcl_19_rep
+data/elections/9GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_19,2019,CON,Christopher J. Carey,rcl_19_con
+data/elections/9GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_19,2019,WOR,Sandra T. Davis,rcl_19_wor
+data/elections/9GNYROCK_LD9.xlsx,COUNTY LEGISLATOR Legislative District 9,rcl,rcl_19,2019,SAM,Christopher J. Carey,rcl_19_sam
+data/elections/9GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_19,2019,DEM,"Louis Falco, III",shf_19_dem
+data/elections/9GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_19,2019,CON,"Louis Falco, III",shf_19_con
+data/elections/9GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_19,2019,WOR,"Louis Falco, III",shf_19_wor
+data/elections/9GNYROCK_SHERIFF.xlsx,SHERIFF,shf,shf_19,2019,IND,"Louis Falco, III",shf_19_ind
+data/elections/COUNTWIDE_COUNTY_EXE.xlsx,County Executive,exe,exe_21,2021,DEM,L'Tanya M. Watkins,exe_21_dem
+data/elections/COUNTWIDE_COUNTY_EXE.xlsx,County Executive,exe,exe_21,2021,REP,Ed Day,exe_21_rep
+data/elections/COUNTWIDE_COUNTY_EXE.xlsx,County Executive,exe,exe_21,2021,CON,Ed Day,exe_21_con
+data/elections/COUNTWIDE_COUNTY_EXE.xlsx,County Executive,exe,exe_21,2021,WOR,L'Tanya M. Watkins,exe_21_wor
+data/elections/COUNTYWIDE_FAMILY_COURT_JUDGE.xlsx,Family Court Judge,fam,fam_21,2021,DEM,Sherri L. Eisenpress,fam_21_dem
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,DEM,Thomas R. Davis,spc_21_dem
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,DEM,Robert M. Berliner,spc_21_dem
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,DEM,James L. Hyer,spc_21_dem
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,DEM,Christie L. D'Alessio,spc_21_dem
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,DEM,Thomas Quinones,spc_21_dem
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,REP,Thomas R. Davis,spc_21_rep
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,REP,Robert M. Berliner,spc_21_rep
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,REP,"James M. Hendry, III",spc_21_rep
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,REP,Mark T. Starkman,spc_21_rep
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,REP,Richard J. Guertin,spc_21_rep
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,CON,Robert M. Berliner,spc_21_con
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,CON,James L. Hyer,spc_21_con
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,CON,Christie L. D'Alessio,spc_21_con
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,CON,Thomas Quinones,spc_21_con
+data/elections/COUNTYWIDE_JUSTICE_OF_SUPREME_COURT.xlsx,Justice of the Supreme Court 9th Judicial District,spc,spc_21,2021,CON,Richard J. Guertin,spc_21_con
+data/elections/22GENYRO_17TH_CONGRESS.csv,Representative in Congress 17th Congressional District,ush,ush_22,2022,DEM,Sean Patrick Maloney,ush_22_dem
+data/elections/22GENYRO_17TH_CONGRESS.csv,Representative in Congress 17th Congressional District,ush,ush_22,2022,REP,Mike Lawler,ush_22_rep
+data/elections/22GENYRO_17TH_CONGRESS.csv,Representative in Congress 17th Congressional District,ush,ush_22,2022,CON,Mike Lawler,ush_22_con
+data/elections/22GENYRO_17TH_CONGRESS.csv,Representative in Congress 17th Congressional District,ush,ush_22,2022,WOR,Sean Patrick Maloney,ush_22_wor
+data/elections/22GENYRO_38TH_SEN.csv,State Senator 38th Senatorial District,ssd,ssd_22,2022,DEM,Elijah Reichlin-,ssd_22_dem
+data/elections/22GENYRO_38TH_SEN.csv,State Senator 38th Senatorial District,ssd,ssd_22,2022,REP,Bill Weber,ssd_22_rep
+data/elections/22GENYRO_38TH_SEN.csv,State Senator 38th Senatorial District,ssd,ssd_22,2022,CON,Bill Weber,ssd_22_con
+data/elections/22GENYRO_38TH_SEN.csv,State Senator 38th Senatorial District,ssd,ssd_22,2022,WOR,Elijah Reichlin-,ssd_22_wor
+data/elections/22GENYRO_40TH_SEN.csv,State Senator 40th Senatorial District,ssd,ssd_22,2022,DEM,Peter B. Harckham,ssd_22_dem
+data/elections/22GENYRO_40TH_SEN.csv,State Senator 40th Senatorial District,ssd,ssd_22,2022,REP,Gina M. Arena,ssd_22_rep
+data/elections/22GENYRO_40TH_SEN.csv,State Senator 40th Senatorial District,ssd,ssd_22,2022,WOR,Peter B. Harckham,ssd_22_wor
+data/elections/22GENYRO_96TH_ASSEM.csv,Member of Assembly 96th Assembly District,shd,shd_22,2022,DEM,Kenneth P. Zebrowski,shd_22_dem
+data/elections/22GENYRO_96TH_ASSEM.csv,Member of Assembly 96th Assembly District,shd,shd_22,2022,REP,Brett L. Yagel,shd_22_rep
+data/elections/22GENYRO_99TH_ASSEM.csv,Member of Assembly 99th Assembly District,shd,shd_22,2022,DEM,Christopher W. Eachus,shd_22_dem
+data/elections/22GENYRO_99TH_ASSEM.csv,Member of Assembly 99th Assembly District,shd,shd_22,2022,REP,Kathryn D. Luciani,shd_22_rep
+data/elections/22GENYRO_99TH_ASSEM.csv,Member of Assembly 99th Assembly District,shd,shd_22,2022,CON,Kathryn D. Luciani,shd_22_con
+data/elections/22GENYRO_ATT_GEN.csv,Attorney General,atg,atg_22,2022,DEM,Letitia A. James,atg_22_dem
+data/elections/22GENYRO_ATT_GEN.csv,Attorney General,atg,atg_22,2022,REP,Michael Henry,atg_22_rep
+data/elections/22GENYRO_ATT_GEN.csv,Attorney General,atg,atg_22,2022,CON,Michael Henry,atg_22_con
+data/elections/22GENYRO_ATT_GEN.csv,Attorney General,atg,atg_22,2022,WOR,Letitia A. James,atg_22_wor
+data/elections/22GENYRO_COMPTROLLER.csv,Comptroller,com,com_22,2022,DEM,Thomas P. DiNapoli,com_22_dem
+data/elections/22GENYRO_COMPTROLLER.csv,Comptroller,com,com_22,2022,REP,Paul Rodriguez,com_22_rep
+data/elections/22GENYRO_COMPTROLLER.csv,Comptroller,com,com_22,2022,CON,Paul Rodriguez,com_22_con
+data/elections/22GENYRO_COMPTROLLER.csv,Comptroller,com,com_22,2022,WOR,Thomas P. DiNapoli,com_22_wor
+data/elections/22GENYRO_GOV_LT_GOV.csv,Governor and Lieutenant Governor,gov,gov_22,2022,DEM,Kathy C. Hochul,gov_22_dem
+data/elections/22GENYRO_GOV_LT_GOV.csv,Governor and Lieutenant Governor,gov,gov_22,2022,REP,Lee Zeldin,gov_22_rep
+data/elections/22GENYRO_GOV_LT_GOV.csv,Governor and Lieutenant Governor,gov,gov_22,2022,CON,Lee Zeldin,gov_22_con
+data/elections/22GENYRO_GOV_LT_GOV.csv,Governor and Lieutenant Governor,gov,gov_22,2022,WOR,Kathy C. Hochul,gov_22_wor
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,DEM,Anne E. Minihan,spc_22_dem
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,DEM,David J. Squirrell,spc_22_dem
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,DEM,Amy S. Puerto,spc_22_dem
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,DEM,Keri A. Fiore,spc_22_dem
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,DEM,Elena M. Goldberg-,spc_22_dem
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,DEM,Sherri Eisenpress,spc_22_dem
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,DEM,David S. Zuckerman,spc_22_dem
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,REP,Linda M. Murray,spc_22_rep
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,REP,Richard J. Guertin,spc_22_rep
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,REP,John A. Sarcone III,spc_22_rep
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,REP,John Ciampoli,spc_22_rep
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,REP,Robert S. Cypher Jr.,spc_22_rep
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,REP,Joseph I. Farca,spc_22_rep
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,REP,Michael J. Grace,spc_22_rep
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,CON,Anne E. Minihan,spc_22_con
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,CON,David J. Squirrell,spc_22_con
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,CON,John A. Sarcone III,spc_22_con
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,CON,John Ciampoli,spc_22_con
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,CON,Elena M. Goldberg-,spc_22_con
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,CON,Sherri Eisenpress,spc_22_con
+data/elections/22GENYRO_JUS_SUPREME.csv,Justices of the Supreme Court 9th Judicial District,spc,spc_22,2022,CON,David S. Zuckerman,spc_22_con
+data/elections/22GENYRO_US_SEN.csv,United States Senator,uss,uss_22,2022,DEM,Charles E. Schumer,uss_22_dem
+data/elections/22GENYRO_US_SEN.csv,United States Senator,uss,uss_22,2022,REP,Joe Pinion,uss_22_rep
+data/elections/22GENYRO_US_SEN.csv,United States Senator,uss,uss_22,2022,CON,Joe Pinion,uss_22_con
+data/elections/22GENYRO_US_SEN.csv,United States Senator,uss,uss_22,2022,WOR,Charles E. Schumer,uss_22_wor
+data/elections/22GENYRO_US_SEN.csv,United States Senator,uss,uss_22,2022,LAR,Diane Sare,uss_22_lar
+data/elections/ge2013_cty_clk_110513.xls,COUNTY CLERK,clk,clk_13,2013,DEM,Paul Piperato,clk_13_dem
+data/elections/ge2013_cty_clk_110513.xls,COUNTY CLERK,clk,clk_13,2013,REP,Donna M. Held,clk_13_rep
+data/elections/ge2013_cty_clk_110513.xls,COUNTY CLERK,clk,clk_13,2013,CON,Paul Piperato,clk_13_con
+data/elections/ge2013_cty_clk_110513.xls,COUNTY CLERK,clk,clk_13,2013,WOR,Paul Piperato,clk_13_wor
+data/elections/ge2013_cty_clk_110513.xls,COUNTY CLERK,clk,clk_13,2013,IND,Donna M. Held,clk_13_ind
+data/elections/ge2013_cty_exec_110513.xls,COUNTY EXECUTIVE,exe,exe_13,2013,DEM,David Fried,exe_13_dem
+data/elections/ge2013_cty_exec_110513.xls,COUNTY EXECUTIVE,exe,exe_13,2013,REP,Ed Day,exe_13_rep
+data/elections/ge2013_cty_exec_110513.xls,COUNTY EXECUTIVE,exe,exe_13,2013,CON,Thomas F. Sullivan,exe_13_con
+data/elections/ge2013_cty_exec_110513.xls,COUNTY EXECUTIVE,exe,exe_13,2013,WOR,David Fried,exe_13_wor
+data/elections/ge2013_cty_exec_110513.xls,COUNTY EXECUTIVE,exe,exe_13,2013,IND,David Fried,exe_13_ind
+data/elections/ge2013_cty_exec_110513.xls,COUNTY EXECUTIVE,exe,exe_13,2013,PRR,Ed Day,exe_13_prr
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,DEM,Janet C. Malone,spc_13_dem
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,DEM,John P. Colangelo,spc_13_dem
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,DEM,Maria S. Vazquez-Doles,spc_13_dem
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,DEM,Victor G. Grossman,spc_13_dem
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,DEM,Alexander Eisemann,spc_13_dem
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,REP,Mark C. Dillon,spc_13_rep
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,REP,Christie Derrico,spc_13_rep
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,REP,Daniel Castricone,spc_13_rep
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,REP,"John W. Sweeny, Jr.",spc_13_rep
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,REP,Daniel D. Angiollio,spc_13_rep
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,CON,Mark C. Dillon,spc_13_con
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,CON,John P. Colangelo,spc_13_con
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,CON,Victor G. Grossman,spc_13_con
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,CON,"John W. Sweeny, Jr.",spc_13_con
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,CON,Daniel D. Angiollio,spc_13_con
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,WOR,Mark C. Dillon,spc_13_wor
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,WOR,John P. Colangelo,spc_13_wor
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,WOR,Maria S. Vazquez-Doles,spc_13_wor
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,WOR,Victor G. Grossman,spc_13_wor
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,WOR,"John W. Sweeny, Jr.",spc_13_wor
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,IND,Mark C. Dillon,spc_13_ind
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,IND,John P. Colangelo,spc_13_ind
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,IND,Maria S. Vazquez-Doles,spc_13_ind
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,IND,"John W. Sweeny, Jr.",spc_13_ind
+data/elections/ge2013_cty_sup_crt_110513.xls,SUPREME COURT JUSTICE 9th Judicial District,spc,spc_13,2013,IND,Daniel D. Angiollio,spc_13_ind
